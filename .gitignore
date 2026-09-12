@@ -7,3 +7,4 @@ venv/
 
 # Dataset
 student_exam_performance.csv
+student_exam_performance_cleaned.csv
