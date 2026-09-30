@@ -365,7 +365,7 @@ The dashboard was designed for a professional portfolio and company-submission c
 
 # 10. Project Structure
 
-```text
+
 Student-Performance-Analysis/
 │
 ├── data/
