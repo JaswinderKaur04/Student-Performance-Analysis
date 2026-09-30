@@ -365,39 +365,37 @@ The dashboard was designed for a professional portfolio and company-submission c
 
 # 10. Project Structure
 
-
-Student-Performance-Analysis/
-│
-├── data/
-│   ├── student_exam_performance.csv
-│   └── student_exam_performance_cleaned.csv
-│
-├── preprocessing/
-│   ├── 1_data_understanding.py
-│   ├── 2_checking_duplicate_students.py
-│   ├── 3_finding_missing_values.py
-│   ├── 4_analysis_of_data_types.py
-│   └── 5_handling_acc_to_type_of_data.py
-│
-├── eda/
-│   └── exploratory_analysis.py
-│
-├── business_insights/
-│   └── 26_business_insights.py
-│
-├── sql/
-│   ├── 01student_performance_analysis.sql
-│   ├── 02data_verification.sql
-│   ├── 03student_performance_analysis.sql
-│   ├── 04business_analysis1.sql
-│   ├── 05business_analysis2.sql
-│   └── 06final_validation.sql
-│
-├── powerbi/
-│   └── Student Performance Dashboard
-│
-├── README.md
-└── .gitignore
+**Student-Performance-Analysis/**  
+├── **data/**  
+│   ├── student_exam_performance.csv  
+│   └── student_exam_performance_cleaned.csv  
+│  
+├── **preprocessing/**  
+│   ├── 1_data_understanding.py  
+│   ├── 2_checking_duplicate_students.py  
+│   ├── 3_finding_missing_values.py  
+│   ├── 4_analysis_of_data_types.py  
+│   └── 5_handling_acc_to_type_of_data.py  
+│  
+├── **eda/**  
+│   └── exploratory_analysis.py  
+│  
+├── **business_insights/**  
+│   └── 26_business_insights.py  
+│  
+├── **sql/**  
+│   ├── 01student_performance_analysis.sql  
+│   ├── 02data_verification.sql  
+│   ├── 03student_performance_analysis.sql  
+│   ├── 04business_analysis1.sql  
+│   ├── 05business_analysis2.sql  
+│   └── 06final_validation.sql  
+│  
+├── **powerbi/**  
+│   └── Student Performance Dashboard  
+│  
+├── **README.md**  
+└── **.gitignore**
 ---
 
 # 11. Key Findings Summary
