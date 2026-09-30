@@ -365,8 +365,9 @@ The dashboard was designed for a professional portfolio and company-submission c
 
 # 10. Project Structure
 
+```text
 Student-Performance-Analysis/
-
+│
 ├── data/
 │   ├── student_exam_performance.csv
 │   └── student_exam_performance_cleaned.csv
@@ -397,7 +398,6 @@ Student-Performance-Analysis/
 │
 ├── README.md
 └── .gitignore
-
 ---
 
 # 11. Key Findings Summary
