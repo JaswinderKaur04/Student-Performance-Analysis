@@ -139,7 +139,6 @@ Used for:
 
 ## 🔄 Project Workflow
 
-```text
 Raw Dataset
      ↓
 Data Understanding
